@@ -1,0 +1,58 @@
+ body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url('https://dxagroup.io/wp-content/uploads/Blog/DigitalArtMarketSizeAnalysisandForecast2023/dxa-group-Digital-Art-Market-Size-Analysis-and-Forecast-2023-10.webp');
+    background-size: cover;
+    background-position: center;
+    color: #fff; 
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    border-radius: 10px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.wallet-section, .form-section {
+    margin-bottom: 20px;
+}
+
+input, button {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#artworkList {
+    margin-top: 20px;
+}
+
+.artwork {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #fff;
+    color: #000;
+}
